@@ -9,3 +9,4 @@ mv /tmp/betty /tmp/my_first_directory - move betty to other directory
 rm /tmp/my_first_directory - deletes betty file
 rm -r /tmp/my_first_directory - deletes the directory
 cd - takes back
+ls -la . .. /boot - lists with period character
