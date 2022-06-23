@@ -5,3 +5,4 @@ ls -l - displays long format
 ls -la - displays hidden content in long format
 ls -lna - display long format with user and group IDs
 mkdir /tmp/my_first_directory - creates directory in /tmp
+mv /tmp/betty /tmp/my_first_directory - move betty to other directory
